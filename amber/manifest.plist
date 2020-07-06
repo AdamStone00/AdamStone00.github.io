@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.bamw.co.uk/adam/amber/AmberCars-Staging.ipa</string>
+					<string>https://adamstone00.github.io/amber/AmberCars-Staging.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.bamw.co.uk/adam/amber/image57.png</string>
+					<string>https://adamstone00.github.io/amber/image57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.bamw.co.uk/adam/amber/image512.png</string>
+					<string>https://adamstone00.github.io/amber/image512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
