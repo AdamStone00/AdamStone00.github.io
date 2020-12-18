@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://adamstone00.github.io/amber/AmberCars-Staging.ipa</string>
+					<string>https://adamstone00.github.io/amber/PGMO.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.engineroomapp.AmberCars</string>
+				<string>com.premierleague.pgmo2</string>
 				<key>bundle-version</key>
-				<string>6.11.0</string>
+				<string>2.0.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Amber Cars</string>
+				<string>PGMOL Observer</string>
 			</dict>
 		</dict>
 	</array>
